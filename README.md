@@ -7,7 +7,7 @@ This is a digital project designed to help humanists and non-programmers learn t
 
 ![Streamlit Pandas Logo](https://github.com/wjbmattingly/streamlit-pandas/raw/main/images/streamlit-pandas-logo-blue.png)
 
-This is a Streamlit component that allows users to easily create Pandas DataFrame query appliactions in Streamlit with just a few lines of Python.
+This is a Streamlit component that allows users to easily create Pandas DataFrame query applications in Streamlit with just a few lines of Python.
 
 ## [LeetTopic](https://github.com/wjbmattingly/LeetTopic)
 
